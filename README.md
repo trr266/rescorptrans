@@ -1,6 +1,6 @@
 ## Course Repository: "Research on Corporate Transparency"
 
-Welcome! This repository contains the publicly available materials that we will use in our open line course on Corporate Transparency. From the Syllabus:
+Welcome! This repository contains the publicly available materials that we will use in our open online course on Corporate Transparency. From the Syllabus:
 
 Corporations are the backbone of our economies. They employ us and provide us with goods and services. We invest our savings into them. They impact our ecological environment as well as our societies at large. Economic frictions make it necessary to monitor and regulate them. This requires some level of corporate transparency. In this course, transparency means the quality of information as generated, distributed, received, and processed by economic agents. Regulators, the media, and public interest activists have regularly criticized low levels of corporate transparency, while corporations have stressed the direct and indirect costs of corporate transparency as well as the risks of information overload. This has motivated the Collaborative Research Center TRR 266 “Accounting for Transparency” to develop a research program concentrated on corporate transparency.
 
