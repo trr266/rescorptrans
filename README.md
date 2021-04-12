@@ -1,8 +1,8 @@
 ## Course Repository: "Research on Corporate Transparency"
 
-Welcome! This repository contains the publicly available materials that we will use in our open online course on Corporate Transparency. From the Syllabus:
+This repository contains the publicly available materials of our open online course on Corporate Transparency. From the Syllabus:
 
-Corporations are the backbone of our economies. They employ us and provide us with goods and services. We invest our savings into them. They impact our ecological environment as well as our societies at large. Economic frictions make it necessary to monitor and regulate them. This requires some level of corporate transparency. In this course, transparency means the quality of information as generated, distributed, received, and processed by economic agents. Regulators, the media, and public interest activists have regularly criticized low levels of corporate transparency, while corporations have stressed the direct and indirect costs of corporate transparency as well as the risks of information overload. This has motivated the Collaborative Research Center TRR 266 “Accounting for Transparency” to develop a research program concentrated on corporate transparency.
+This course is open for everybody who is interested in research on corporate transparency. It has been designed for Master and first year PhD students to get familiar with current research in this field and to take their first steps towards doing independent research on this topic. After completing the course, they will understand its main findings and have reviewed them critically. Also, they will be able to develop research projects that add to this fascinating and relevant field.
 
 More information on the course can be found in the [Syllabus](rescorptrans_syllabus.pdf).
 
@@ -18,6 +18,39 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
 |July 12 | Non-financial Reporting | Giovanna Michelon (Bristol) |
 
-To register for the course, please fill out the following form: https://forms.gle/dwE8asuRksaRPRpc6.
+To register for the course, please fill out the following form: https://forms.gle/dwE8asuRksaRPRpc6. The deadline for enrollment is April 19.
 
-This repository will fill with additional content during the course.
+
+### Unit Slides and Videos
+
+These are the slides and the videos linked to each unit.
+
+| Unit | Element title | Slides | Video |
+|:-----|:------|:---:|:---:|
+|Charting the Corporate Transparency Research Landscape|Course Organization|[Slides](slides/unit1_element00.pdf)|[Video](https://youtu.be/vyq_J7DXi94)|
+||How to Find and Read Research|[Slides](slides/unit1_element010.pdf)|[Video](https://youtu.be/jpixYIGLxfM)|
+||Principles of Open Science|[Slides](slides/unit1_element02.pdf)|[Video](https://youtu.be/4L7FQPU_6Jg)|
+||The Corporate Reporting Framework|[Slides](slides/unit1_element03.pdf)|[Video](https://youtu.be/ldH9EyhfUUo)|
+
+Additional videos will be added as we move through the course. The discussion sessions with guests are scheduled as live events but might become available 'canned' later, depending on participant consent.
+
+
+### Readings
+
+| Unit | Reference |
+|:-----|:----------|
+|Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
+
+
+### Assignments
+
+| Assignment | Title | Link | Due date |
+|:-----|:------|:---:|:---:|
+|1|Reproduce and Extend Our 'Analysis'|[PDF File](assignments/assignment1.pdf)|May, 10th|
+
+Assignments will only be reviewed and graded when you successfully registered for taking credits. Students that are eligible to take credits will be informed by April 20th.
+
+
+### Questions, remarks, feedback?
+
+Open an [issue](https://github.com/trr266/rescorptrans/issues). Thanks!
