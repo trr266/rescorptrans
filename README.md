@@ -27,10 +27,10 @@ These are the slides and the videos linked to each unit.
 
 | Unit | Element title | Slides | Video |
 |:-----|:------|:---:|:---:|
-|Charting the Corporate Transparency Research Landscape|Course Organization|[Slides](slides/unit1_element00.pdf)|[Video](https://youtu.be/vyq_J7DXi94)|
-||How to Find and Read Research|[Slides](slides/unit1_element010.pdf)|[Video](https://youtu.be/jpixYIGLxfM)|
-||Principles of Open Science|[Slides](slides/unit1_element02.pdf)|[Video](https://youtu.be/4L7FQPU_6Jg)|
-||The Corporate Reporting Framework|[Slides](slides/unit1_element03.pdf)|[Video](https://youtu.be/ldH9EyhfUUo)|
+|Charting the Corporate Transparency Research Landscape|Course Organization|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element00.pdf)|[Video](https://youtu.be/vyq_J7DXi94)|
+||How to Find and Read Research|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element01.pdf)|[Video](https://youtu.be/jpixYIGLxfM)|
+||Principles of Open Science|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element02.pdf)|[Video](https://youtu.be/4L7FQPU_6Jg)|
+||The Corporate Reporting Framework|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element03.pdf)|[Video](https://youtu.be/ldH9EyhfUUo)|
 
 Additional videos will be added as we move through the course. The discussion sessions with guests are scheduled as live events but might become available 'canned' later, depending on participant consent.
 
@@ -46,7 +46,7 @@ Additional videos will be added as we move through the course. The discussion se
 
 | Assignment | Title | Link | Due date |
 |:-----|:------|:---:|:---:|
-|1|Reproduce and Extend Our 'Analysis'|[PDF File](assignments/assignment1.pdf)|May, 10th|
+|1|Reproduce and Extend Our 'Analysis'|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment1.pdf)|May, 10th|
 
 Assignments will only be reviewed and graded when you successfully registered for taking credits. Students that are eligible to take credits will be informed by April 20th.
 
