@@ -18,7 +18,7 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
 |July 12 | Non-financial Reporting | Giovanna Michelon (Bristol) |
 
-To register for the course, please fill out the following form: https://forms.gle/dwE8asuRksaRPRpc6. The deadline for enrollment is April 19.
+To registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
 
 
 ### Unit Slides and Videos
@@ -31,6 +31,13 @@ These are the slides and the videos linked to each unit.
 ||How to Find and Read Research|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element01.pdf)|[Video](https://youtu.be/jpixYIGLxfM)|
 ||Principles of Open Science|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element02.pdf)|[Video](https://youtu.be/4L7FQPU_6Jg)|
 ||The Corporate Reporting Framework|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit1_element03.pdf)|[Video](https://youtu.be/ldH9EyhfUUo)|
+||Discussion Session with Christian Leuz|[Slides (Moodle)](https://moodle.hu-berlin.de/course/view.php?id=104133)|[Video](https://youtu.be/JukAbbR-Mb0)|
+|Disclosure Theory|Why Theory?|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element04.pdf)|[Video](https://youtu.be/2Eqa-77VYRs)|
+||Unraveling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element05.pdf)|[Video](https://youtu.be/-NwcW-mn9k4)|
+||Cheap Talk|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element06.pdf)|[Video](https://youtu.be/C_4hZvmyFxM)|
+||Signaling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element07.pdf)|[Video](https://youtu.be/kRiNA4XwOCk)|
+
+[YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
 Additional videos will be added as we move through the course. The discussion sessions with guests are scheduled as live events but might become available 'canned' later, depending on participant consent.
 
@@ -40,6 +47,8 @@ Additional videos will be added as we move through the course. The discussion se
 | Unit | Reference |
 |:-----|:----------|
 |Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
+|Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 2.1.|
+||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://www.dar.uzh.ch/dam/jcr:1ee45fc1-dc01-4cc3-b705-eef86c4971db/paper.pdf), Introduction and skim.|
 
 
 ### Assignments
