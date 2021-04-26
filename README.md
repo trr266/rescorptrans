@@ -18,7 +18,7 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
 |July 12 | Non-financial Reporting | Giovanna Michelon (Bristol) |
 
-To registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
+The registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
 
 
 ### Unit Slides and Videos
@@ -47,7 +47,7 @@ Additional videos will be added as we move through the course. The discussion se
 | Unit | Reference |
 |:-----|:----------|
 |Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
-|Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 2.1.|
+|Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 3.1.|
 ||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://www.dar.uzh.ch/dam/jcr:1ee45fc1-dc01-4cc3-b705-eef86c4971db/paper.pdf), Introduction and skim.|
 
 
