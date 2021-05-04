@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # Project related stuff
 *.html
+.DS_Store
