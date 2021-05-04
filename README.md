@@ -36,6 +36,7 @@ These are the slides and the videos linked to each unit.
 ||Unraveling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element05.pdf)|[Video](https://youtu.be/-NwcW-mn9k4)|
 ||Cheap Talk|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element06.pdf)|[Video](https://youtu.be/C_4hZvmyFxM)|
 ||Signaling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element07.pdf)|[Video](https://youtu.be/kRiNA4XwOCk)|
+||Discussion Session with Alfred Wagenhofer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_wagenhofer.pdf)|[Video](https://youtu.be/pQpdO2SCnmc)|
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
