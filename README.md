@@ -37,6 +37,9 @@ These are the slides and the videos linked to each unit.
 ||Cheap Talk|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element06.pdf)|[Video](https://youtu.be/C_4hZvmyFxM)|
 ||Signaling|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_element07.pdf)|[Video](https://youtu.be/kRiNA4XwOCk)|
 ||Discussion Session with Alfred Wagenhofer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit2_wagenhofer.pdf)|[Video](https://youtu.be/pQpdO2SCnmc)|
+|Voluntary versus Regulated Disclosure|Rationales for Regulation|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element08.pdf)|[Video](https://youtu.be/aACoTBZ6OY8)|
+||Optimal Accounting Standards|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element09.pdf)|[Video](https://youtu.be/FT6o8jZlJNw)|
+||Biased Reporting|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element10.pdf)|[Video](https://youtu.be/srfh75LSZoY)|
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
@@ -50,6 +53,8 @@ Additional videos will be added as we move through the course. The discussion se
 |Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
 |Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 3.1.|
 ||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://www.dar.uzh.ch/dam/jcr:1ee45fc1-dc01-4cc3-b705-eef86c4971db/paper.pdf), Introduction and skim.|
+|Voluntary versus Regulated Disclosure|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 4.1.|
+||Anne Beyer and Kevin C. Smith (2021): Learning about Risk-Factor Exposures from Earnings: Implications for Asset Pricing and Manipulation, [JAE forthcoming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800379), Introduction and skim.|
 
 
 ### Assignments
@@ -59,7 +64,7 @@ Additional videos will be added as we move through the course. The discussion se
 |1|Reproduce and Extend Our 'Analysis'|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment1.pdf)|May, 10th|
 |2|Assignment 2: Build on Theory|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment2.pdf)|May, 24th|
 
-Assignments will only be reviewed and graded when you successfully registered for taking credits. Students that are eligible to take credits will be informed by April 20th.
+Assignments will only be reviewed and graded when you successfully registered for taking credits.
 
 
 ### Questions, remarks, feedback?
