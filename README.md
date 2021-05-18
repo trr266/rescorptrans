@@ -40,7 +40,7 @@ These are the slides and the videos linked to each unit.
 |Voluntary versus Regulated Disclosure|Rationales for Regulation|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element08.pdf)|[Video](https://youtu.be/aACoTBZ6OY8)|
 ||Optimal Accounting Standards|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element09.pdf)|[Video](https://youtu.be/FT6o8jZlJNw)|
 ||Biased Reporting|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element10.pdf)|[Video](https://youtu.be/srfh75LSZoY)|
-||Discussion Session with Anne Beyer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_beyer.pdf)||
+||Discussion Session with Anne Beyer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_beyer.pdf)|[Video](https://youtu.be/6vcRe-DBJpU)|
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
