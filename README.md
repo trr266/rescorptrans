@@ -41,6 +41,10 @@ These are the slides and the videos linked to each unit.
 ||Optimal Accounting Standards|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element09.pdf)|[Video](https://youtu.be/FT6o8jZlJNw)|
 ||Biased Reporting|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_element10.pdf)|[Video](https://youtu.be/srfh75LSZoY)|
 ||Discussion Session with Anne Beyer|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit3_beyer.pdf)|[Video](https://youtu.be/6vcRe-DBJpU)|
+|Transparency and Market Efficiency|Market Efficiency|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element11.pdf)|[Video](https://youtu.be/sBTyuDH3-R4)|
+||On The Impossibility of Informationally Efficient Markets|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element12.pdf)|[Video](https://youtu.be/sR0gbAA3pZs)|
+||Information Asymmetry|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element13.pdf)|[Video](https://youtu.be/59w4G6CuIF0)|
+
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
@@ -56,6 +60,9 @@ Additional videos will be added as we move through the course. The discussion se
 ||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://www.dar.uzh.ch/dam/jcr:1ee45fc1-dc01-4cc3-b705-eef86c4971db/paper.pdf), Introduction and skim.|
 |Voluntary versus Regulated Disclosure|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 4.1.|
 ||Anne Beyer and Kevin C. Smith (2021): Learning about Risk-Factor Exposures from Earnings: Implications for Asset Pricing and Manipulation, [JAE forthcoming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800379), Introduction and skim.|
+|Transparency and Market Efficiency|Maureen O'Hara (2003): Presidential Address: Liquidity and Price Discovery, Journal of Finance, 58:4, 1335--1354, https://doi.org/10.1111/1540-6261.00569.|
+||Karthik Balakrishnan, Mary Billings, Brian Kelly, and Alexander Ljungqvist (2014): Shaping Liquidity: On the Causal Effects of Voluntary Disclosure, Journal of Finance, 69:5, 2237--2278, https://doi.org/10.1111/jofi.12180, Introduction and skim.|
+||Edith Leung and David Veenman (2019): Non-GAAP Earnings Disclosure in Loss Firms, Journal of Accounting Research, 56:4, 1083--1137, https://doi.org/10.1111/1475-679X.12216, Introduction and skim.|
 
 
 ### Assignments
