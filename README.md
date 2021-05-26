@@ -71,7 +71,7 @@ Additional videos will be added as we move through the course. The discussion se
 |:-----|:------|:---:|:---:|
 |1|Reproduce and Extend Our 'Analysis'|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment1.pdf)|May, 10th|
 |2|Build on Theory|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment2.pdf)|May, 24th|
-|3|Cross-sectional Variation in ERCs|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment3.pdf)|May, 24th|
+|3|Cross-sectional Variation in ERCs|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment3.pdf)|June 28th|
 
 Assignments will only be reviewed and graded when you successfully registered for taking credits.
 
