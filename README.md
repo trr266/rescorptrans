@@ -44,6 +44,7 @@ These are the slides and the videos linked to each unit.
 |Transparency and Market Efficiency|Market Efficiency|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element11.pdf)|[Video](https://youtu.be/sBTyuDH3-R4)|
 ||On The Impossibility of Informationally Efficient Markets|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element12.pdf)|[Video](https://youtu.be/sR0gbAA3pZs)|
 ||Information Asymmetry|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_element13.pdf)|[Video](https://youtu.be/59w4G6CuIF0)|
+||Discussion Session with David Veenman|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit4_veenman.pdf)|[Video](https://youtu.be/mn_IBro8oOw)|
 
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
@@ -57,7 +58,7 @@ Additional videos will be added as we move through the course. The discussion se
 |:-----|:----------|
 |Charting the Corporate Transparency Research Landscape|Christian Leuz and Peter Wysocki (2016): The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, Journal of Accounting Research 54:2, 525--622,  https://doi.org/10.1111/1475-679X.12115, Sections 1 and 2.|
 |Disclosure Theory|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 3.1.|
-||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://www.dar.uzh.ch/dam/jcr:1ee45fc1-dc01-4cc3-b705-eef86c4971db/paper.pdf), Introduction and skim.|
+||Stefan Schantl and Alfred Wagenhofer (2021): Economic Effects of Increasing Litigation Risk on Corporate Disclosure, [Working Paper](https://raw.githubusercontent.com/trr266/rescorptrans/main/add_materials/schantl_wagenhofer_2021.pdf), Introduction and skim.|
 |Voluntary versus Regulated Disclosure|Anne Beyer, Daniel Cohen, Thomas Lys, and Beverly Walther (2010):The financial reporting environment: Review of the recent literature, Journal of Accounting and Economics, 50: 2–3, 296--343, https://doi.org/10.1016/j.jacceco.2010.10.003, Section 4.1.|
 ||Anne Beyer and Kevin C. Smith (2021): Learning about Risk-Factor Exposures from Earnings: Implications for Asset Pricing and Manipulation, [JAE forthcoming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800379), Introduction and skim.|
 |Transparency and Market Efficiency|Maureen O'Hara (2003): Presidential Address: Liquidity and Price Discovery, Journal of Finance, 58:4, 1335--1354, https://doi.org/10.1111/1540-6261.00569.|
