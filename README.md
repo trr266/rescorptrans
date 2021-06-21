@@ -49,6 +49,10 @@ These are the slides and the videos linked to each unit.
 ||Financial Reporting and Data Aggregators|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element15.pdf)|[Video](https://youtu.be/XxlmumEDPcE)|
 ||Financial Analysts|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element16.pdf)|[Video](https://youtu.be/WV2rMhW59Sk)|
 ||The Media as an Information Intermediary|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit5_element17.pdf)|[Video](https://youtu.be/EGmceKgslqI)|
+||Discussion Session with Elizabeth Blankespoor|[Slides (Moodle)](https://moodle.hu-berlin.de/course/view.php?id=104133)|[Video](https://youtu.be/v1PyY5Afhp8)|
+|Tax Transparency|Tax Transparency - Institutions|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element18.pdf)|[Video](https://youtu.be/A2I9amC5YsM)|
+||Tax Transparency - Incentives|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element19.pdf)|[Video](https://youtu.be/F6LgIn_1w9k)|
+||Tax Transparency - Effects|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element20.pdf)|[Video](https://youtu.be/LcMIhrTI5U0)|
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
@@ -67,8 +71,10 @@ Additional videos will be added as we move through the course. The discussion se
 |Transparency and Market Efficiency|Maureen O'Hara (2003): Presidential Address: Liquidity and Price Discovery, Journal of Finance, 58:4, 1335--1354, https://doi.org/10.1111/1540-6261.00569.|
 ||Karthik Balakrishnan, Mary Billings, Brian Kelly, and Alexander Ljungqvist (2014): Shaping Liquidity: On the Causal Effects of Voluntary Disclosure, Journal of Finance, 69:5, 2237--2278, https://doi.org/10.1111/jofi.12180, Introduction and skim.|
 ||Edith Leung and David Veenman (2019): Non-GAAP Earnings Disclosure in Loss Firms, Journal of Accounting Research, 56:4, 1083--1137, https://doi.org/10.1111/1475-679X.12216, Introduction and skim.|
-|Disclosure Channels|Elizabeth Blankespoor, Ed deHaan, Ivan Marinovic (2020): Disclosure processing costs, investors’ information choice, and equity market outcomes: A review, Journal of Accounting Economics, 70:2-3, 1--46, https://doi.org/10.1016/j.jacceco.2020.101344, Sections 1,2 and 5.|
+|Disclosure Channels|Elizabeth Blankespoor, Ed deHaan, Ivan Marinovic (2020): Disclosure processing costs, investors’ information choice, and equity market outcomes: A review, Journal of Accounting Economics, 70:2-3, 1--46, https://doi.org/10.1016/j.jacceco.2020.101344, Sections 1, 2 and 5.|
 ||Elizabeth Blankespoor, Bradley Hendricks and Gregory Miller (2021): The Pitch: Managers’ Disclosure Choice During IPO Roadshows, http://dx.doi.org/10.2139/ssrn.3545716, Introduction and skim.|
+|Tax Transparency|Raphael Müller, Christoph Spengel and Heiko Vay (2020): On the Determinants and Effects of Corporate Tax Transparency: Review of an Emerging Literature, SSRN Working Paper, http://dx.doi.org/10.2139/ssrn.3736747, Sections 1 to 3.|
+||Bart Dierynck, Martin Jacob, Max  Müller, Christian Peters and Victor van Pelt (2021): Public Tax Disclosures and Investor Perceptions, SSRN Working Paper, http://dx.doi.org/10.2139/ssrn.3729938, Introduction and skim.|
 
 
 ### Assignments
