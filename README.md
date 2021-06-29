@@ -53,6 +53,8 @@ These are the slides and the videos linked to each unit.
 |Tax Transparency|Tax Transparency - Institutions|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element18.pdf)|[Video](https://youtu.be/A2I9amC5YsM)|
 ||Tax Transparency - Incentives|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element19.pdf)|[Video](https://youtu.be/F6LgIn_1w9k)|
 ||Tax Transparency - Effects|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element20.pdf)|[Video](https://youtu.be/LcMIhrTI5U0)|
+||Discussion Session with Martin Jacob|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_jacob.pdf)|[Video](https://youtu.be/zYjyz32P_Dw)|
+
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
 
