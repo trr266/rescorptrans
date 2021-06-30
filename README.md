@@ -86,7 +86,7 @@ Additional videos will be added as we move through the course. The discussion se
 |1|Reproduce and Extend Our 'Analysis'|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment1.pdf)|May, 10th|
 |2|Build on Theory|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment2.pdf)|May, 24th|
 |3|Cross-sectional Variation in ERCs|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment3.pdf)|June 28th|
-|4|Determinants of Analyst Following|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment4.pdf)|July 12th|
+|4|Determinants of Analyst Following|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment4.pdf)|July 19th|
 |5|CSR Performance and Firm Profitability|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment5.pdf)|July 12th|
 
 Assignments will only be reviewed and graded when you successfully registered for taking credits.
