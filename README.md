@@ -16,7 +16,7 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |May 31 | Transparency and Market Efficiency | David Veenman (Amsterdam) |
 |June 14 | Disclosure Channels | Elisabeth Blankespoor (Washington) |
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
-|July 12 | Non-financial Reporting | Giovanna Michelon (Bristol) |
+|July 12 | Non-Financial Reporting | Giovanna Michelon (Bristol) |
 
 The registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
 
@@ -54,6 +54,9 @@ These are the slides and the videos linked to each unit.
 ||Tax Transparency - Incentives|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element19.pdf)|[Video](https://youtu.be/F6LgIn_1w9k)|
 ||Tax Transparency - Effects|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_element20.pdf)|[Video](https://youtu.be/LcMIhrTI5U0)|
 ||Discussion Session with Martin Jacob|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit6_jacob.pdf)|[Video](https://youtu.be/zYjyz32P_Dw)|
+|Non-Financial Reporting|Non-Financial Reporting - Institutions|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element21.pdf)|[Video](https://youtu.be/BRgpy545A3s)|
+||Non-Financial Reporting - Topics and Methods|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element22.pdf)|[Video](https://youtu.be/WKl_CbCjWws)|
+||Non-Financial Reporting - Findings|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element23.pdf)|[Video](https://youtu.be/0Z37PDcxgCc)|
 
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
@@ -77,6 +80,9 @@ Additional videos will be added as we move through the course. The discussion se
 ||Elizabeth Blankespoor, Bradley Hendricks and Gregory Miller (2021): The Pitch: Managers’ Disclosure Choice During IPO Roadshows, http://dx.doi.org/10.2139/ssrn.3545716, Introduction and skim.|
 |Tax Transparency|Raphael Müller, Christoph Spengel and Heiko Vay (2020): On the Determinants and Effects of Corporate Tax Transparency: Review of an Emerging Literature, SSRN Working Paper, http://dx.doi.org/10.2139/ssrn.3736747, Sections 1 to 3.|
 ||Bart Dierynck, Martin Jacob, Max  Müller, Christian Peters and Victor van Pelt (2021): Public Tax Disclosures and Investor Perceptions, SSRN Working Paper, http://dx.doi.org/10.2139/ssrn.3729938, Introduction and skim.|
+|Non-Financial Reporting|Anthony Hopwood (2009): Accounting and the environment, ccounting, Organizations and Society, 34: 3–4, 433--439 DOI:  http://dx.doi.org/10.1016/j.aos.2009.03.002.|
+||Giovanna Michelon, Michelle Rodrigue, and Elisabetta Trevisan (2020): The marketization of a social movement: Activists, shareholders and CSR disclosure, Accounting, Organizations and Society, Volume 80: 101074, http://dx.doi.org/10.1016/j.aos.2019.101074, Introduction and skim.|
+||Giovanna Michelon, Dennis Patten, and Andrea Romi (2019): Creating Legitimacy for Sustainability Assurance Practices: Evidence from Sustainability Restatements, European Accounting Review, 28:2, 395--422, http://dx.doi.org/10.1080/09638180.2018.1469424, Introduction and skim.|
 
 
 ### Assignments
