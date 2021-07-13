@@ -1,12 +1,12 @@
 ## Course Repository: "Research on Corporate Transparency"
 
-This repository contains the publicly available materials of our open online course on Corporate Transparency. From the Syllabus:
+This repository contains the publicly available materials of our open online course on Corporate Transparency that we offered at Humboldt-Universität zu Berlin in the summer term of 2021. From the Syllabus:
 
 This course is open for everybody who is interested in research on corporate transparency. It has been designed for Master and first year PhD students to get familiar with current research in this field and to take their first steps towards doing independent research on this topic. After completing the course, they will understand its main findings and have reviewed them critically. Also, they will be able to develop research projects that add to this fascinating and relevant field.
 
 More information on the course can be found in the [Syllabus](rescorptrans_syllabus.pdf).
 
-We are looking forward to an fruitful set of discussion sessions with exciting guests:
+We were extremely lucky to have a extremely engaging set of discussion sessions with exciting guests:
 
 | Date | Topic | Guest|
 |:-----|:------|:-----|
@@ -18,7 +18,7 @@ We are looking forward to an fruitful set of discussion sessions with exciting g
 |June 28 | Tax Transparency	| Martin Jacob (WHU) | 
 |July 12 | Non-Financial Reporting | Giovanna Michelon (Bristol) |
 
-The registration deadline for the course has passed. You can, however, watch the videos below and attend the discussion sessions (Zoom link in Syllabus) without prior registration. 
+Thank you to everybody that contributed to making this course a success! If you missed the opportunity to attend, you can still watch the videos below. 
 
 
 ### Unit Slides and Videos
@@ -57,11 +57,10 @@ These are the slides and the videos linked to each unit.
 |Non-Financial Reporting|Non-Financial Reporting - Institutions|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element21.pdf)|[Video](https://youtu.be/BRgpy545A3s)|
 ||Non-Financial Reporting - Topics and Methods|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element22.pdf)|[Video](https://youtu.be/WKl_CbCjWws)|
 ||Non-Financial Reporting - Findings|[Slides](https://raw.githubusercontent.com/trr266/rescorptrans/main/slides/unit7_element23.pdf)|[Video](https://youtu.be/0Z37PDcxgCc)|
+||Discussion Session with Giovanna Michelon|[Slides (Moodle)](https://moodle.hu-berlin.de/course/view.php?id=104133)|[Video](https://youtu.be/Ew3B_qYYyHs)|
 
 
 [YouTube playlist](https://youtube.com/playlist?list=PL-9XqvJlFJ-73HljPIiKo1vD9E8BPt9xK) for binge watching.
-
-Additional videos will be added as we move through the course. The discussion sessions with guests are scheduled as live events but might become available 'canned' later, depending on participant consent.
 
 
 ### Readings
@@ -94,8 +93,6 @@ Additional videos will be added as we move through the course. The discussion se
 |3|Cross-sectional Variation in ERCs|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment3.pdf)|June 28th|
 |4|Determinants of Analyst Following|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment4.pdf)|July 19th|
 |5|CSR Performance and Firm Profitability|[PDF File](https://raw.githubusercontent.com/trr266/rescorptrans/main/assignments/assignment5.pdf)|July 12th|
-
-Assignments will only be reviewed and graded when you successfully registered for taking credits.
 
 
 ### Questions, remarks, feedback?
